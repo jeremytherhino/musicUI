@@ -1,0 +1,36 @@
+/* Coolors Exported Palette - https://coolors.co/a08b81-5e585a-f2f2f2-fdfbfb-bebe6a-20151f */
+
+- Tailwind
+
+{ 'cinereous': { DEFAULT: '#A08B81', 100: '#211c19', 200: '#423732', 300: '#63534b', 400: '#856e64', 500: '#a08b81', 600: '#b4a39b', 700: '#c6bab4', 800: '#d9d1cd', 900: '#ece8e6' }, 'davy's_gray': { DEFAULT: '#5E585A', 100: '#131212', 200: '#262424', 300: '#393537', 400: '#4c4749', 500: '#5e585a', 600: '#80797b', 700: '#a09a9c', 800: '#c0bcbd', 900: '#dfddde' }, 'white_smoke': { DEFAULT: '#F2F2F2', 100: '#303030', 200: '#616161', 300: '#919191', 400: '#c2c2c2', 500: '#f2f2f2', 600: '#f5f5f5', 700: '#f7f7f7', 800: '#fafafa', 900: '#fcfcfc' }, 'white': { DEFAULT: '#FDFBFB', 100: '#432222', 200: '#864444', 300: '#ba7575', 400: '#dbb8b8', 500: '#fdfbfb', 600: '#fefcfc', 700: '#fefdfd', 800: '#fefefe', 900: '#fffefe' }, 'citron': { DEFAULT: '#BEBE6A', 100: '#292912', 200: '#525224', 300: '#7b7b36', 400: '#a4a448', 500: '#bebe6a', 600: '#cbcb88', 700: '#d8d8a6', 800: '#e5e5c3', 900: '#f2f2e1' }, 'licorice': { DEFAULT: '#20151F', 100: '#060406', 200: '#0c080c', 300: '#130c12', 400: '#191018', 500: '#20151f', 600: '#563854', 700: '#8e5d8a', 800: '#b690b3', 900: '#dbc7d9' } }
+
+- CSV
+
+A08B81,5E585A,F2F2F2,FDFBFB,BEBE6A,20151F
+
+- With #
+
+#A08B81, #5E585A, #F2F2F2, #FDFBFB, #BEBE6A, #20151F
+
+- Array
+
+["A08B81","5E585A","F2F2F2","FDFBFB","BEBE6A","20151F"]
+
+- Object
+
+{"Cinereous":"A08B81","Davy's gray":"5E585A","White smoke":"F2F2F2","White":"FDFBFB","Citron":"BEBE6A","Licorice":"20151F"}
+
+- Extended Array
+
+[{"name":"Cinereous","hex":"A08B81","rgb":[160,139,129],"cmyk":[0,13,19,37],"hsb":[19,19,63],"hsl":[19,14,57],"lab":[59,6,8]},{"name":"Davy's gray","hex":"5E585A","rgb":[94,88,90],"cmyk":[0,6,4,63],"hsb":[340,6,37],"hsl":[340,3,36],"lab":[38,3,0]},{"name":"White smoke","hex":"F2F2F2","rgb":[242,242,242],"cmyk":[0,0,0,5],"hsb":[0,0,95],"hsl":[0,0,95],"lab":[95,0,0]},{"name":"White","hex":"FDFBFB","rgb":[253,251,251],"cmyk":[0,1,1,1],"hsb":[0,1,99],"hsl":[0,33,99],"lab":[99,1,0]},{"name":"Citron","hex":"BEBE6A","rgb":[190,190,106],"cmyk":[0,0,44,25],"hsb":[60,44,75],"hsl":[60,39,58],"lab":[75,-12,42]},{"name":"Licorice","hex":"20151F","rgb":[32,21,31],"cmyk":[0,34,3,87],"hsb":[305,34,13],"hsl":[305,21,10],"lab":[9,8,-5]}]
+
+- XML
+
+<palette>
+  <color name="Cinereous" hex="A08B81" r="160" g="139" b="129" />
+  <color name="Davy's gray" hex="5E585A" r="94" g="88" b="90" />
+  <color name="White smoke" hex="F2F2F2" r="242" g="242" b="242" />
+  <color name="White" hex="FDFBFB" r="253" g="251" b="251" />
+  <color name="Citron" hex="BEBE6A" r="190" g="190" b="106" />
+  <color name="Licorice" hex="20151F" r="32" g="21" b="31" />
+</palette>
